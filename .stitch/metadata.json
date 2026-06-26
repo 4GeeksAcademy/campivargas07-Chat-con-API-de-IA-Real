@@ -1,0 +1,39 @@
+{
+  "project": {
+    "id": "2799299996149974702",
+    "title": "Chat con API",
+    "deviceType": "DESKTOP",
+    "colorMode": "DARK",
+    "exportedAt": "2026-06-26T16:58:00Z"
+  },
+  "screens": [
+    {
+      "id": "e824081b103e4f5b9c6fe4281cd40ef3",
+      "title": "Especificación Técnica Chat Groq",
+      "type": "markdown",
+      "files": {
+        "code": "designs/especificacion-tecnica-chat-groq.md"
+      }
+    },
+    {
+      "id": "asset-stub-assets_6104d20175b0444388c75a6b89d31c9a",
+      "title": "Design System",
+      "type": "design-theme",
+      "files": {
+        "designMd": "DESIGN.md",
+        "source": "designs/design-system-source.md"
+      },
+      "note": "Asset stub del tema; contenido extraído de designTheme.designMd del proyecto"
+    },
+    {
+      "id": "18c52f34377e421aac90ca6ad57a9478",
+      "title": "Chat Groq - Métricas Llama 3",
+      "type": "ui",
+      "dimensions": { "width": 2560, "height": 2048 },
+      "files": {
+        "html": "designs/chat-groq-metricas-llama-3.html",
+        "screenshot": "designs/chat-groq-metricas-llama-3.png"
+      }
+    }
+  ]
+}
